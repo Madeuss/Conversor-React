@@ -20,5 +20,4 @@ Importe todos os arquivos;
 Abra o projeto dentro de seu editor;
 Execute o comando 'npm run start' dentro do bash do editor;
 Aguarde a aplicação ser executada em seu navegador.
-
 ```
