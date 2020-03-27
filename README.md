@@ -34,6 +34,6 @@
 **👇Se deseja apenar visualizar a aplicação clique no link abaixo👇**
 
 <h4 align="center">
-    <a href="https://converter-fea31.firebaseapp.com/">CurrencyConverter</a>
+    <a target="_blank" href="https://converter-fea31.firebaseapp.com/">CurrencyConverter</a>
 </h4>
 
